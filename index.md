@@ -12,7 +12,7 @@ You can access the [FIRM here](https://github.com/hgaps/hgaps.github.io/blob/fir
 
 If you want to use the FIRM [click here to download the file in PDF][1]
 
-[1]:{{https://github.com/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf}}/download/file.pdf
+[1]:{{ https://github.com/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf }}/download/file.pdf
 
 
 You can access the [FIRM R scoring template here](https://github.com/hgaps/hgaps.github.io/blob/firm/firm/scoring.R)

@@ -10,11 +10,6 @@ You can access the [FIRM here](https://github.com/hgaps/hgaps.github.io/blob/fir
 
 <a href="https://github.com/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf" target="_blank"> Access FIRM here</a>
 
-If you want to use the FIRM [click here to download the file in PDF][1]
-
-[1]:{{ https://github.com/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf }}/download/file.pdf
-
-
 You can access the [FIRM R scoring template here](https://github.com/hgaps/hgaps.github.io/blob/firm/firm/scoring.R)
 
 Find our paper in [Pubmed](https://pubmed.ncbi.nlm.nih.gov/22800090/)

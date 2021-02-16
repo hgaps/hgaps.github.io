@@ -11,7 +11,8 @@ You can access the [FIRM here](https://github.com/hgaps/hgaps.github.io/blob/fir
 You can access the [FIRM R scoring template here](https://github.com/hgaps/hgaps.github.io/blob/firm/firm/scoring.R)
 
 Find our paper in [Pubmed](https://pubmed.ncbi.nlm.nih.gov/22800090/)
- 
+
+%md <a href="https://pubmed.ncbi.nlm.nih.gov/22800090" target="_blank"> Link to paper</a> 
 
 
 # This looks pretty bad at the moment, but it is just an example!

@@ -8,6 +8,8 @@ This is an example of a repository
 
 You can access the [FIRM here](https://github.com/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf)
 
+You can access the pdf without entering github [clicking here](https://nbviewer.jupyter.org/github/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf)
+
 <a href="https://github.com/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf" target="_blank"> Access FIRM here</a>
 
 You can access the [FIRM R scoring template here](https://github.com/hgaps/hgaps.github.io/blob/firm/firm/scoring.R)

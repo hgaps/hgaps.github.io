@@ -12,6 +12,10 @@ You can access the pdf without entering github [clicking here](https://nbviewer.
 
 <a href="https://github.com/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf" target="_blank"> Access FIRM here</a>
 
+<a href="https://nbviewer.jupyter.org/github/hgaps/hgaps.github.io/blob/firm/firm/firma.pdf" target="_blank"> Click here to FIRM in a different tab</a>
+
+
+
 You can access the [FIRM R scoring template here](https://github.com/hgaps/hgaps.github.io/blob/firm/firm/scoring.R)
 
 Find our paper in [Pubmed](https://pubmed.ncbi.nlm.nih.gov/22800090/)
